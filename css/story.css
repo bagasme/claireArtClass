@@ -5,13 +5,20 @@
 
 /* body */
 body {
-    width : 450px;
+    width : 600px;
 }
 
 /* story title */
 h1.title {
     font-family : "Comic Sans MS", cursive, sans-serif;
-    font-size: 12px;
+    font-size: 1.25em;
+    text-align : center;
+}
+
+/* story body */
+article.body {
+    font-family : Garamond, Palatino, serif;
+    font-size : 1.2em;
     text-align : justify;
 }
 
