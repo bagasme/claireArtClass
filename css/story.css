@@ -22,3 +22,8 @@ article.body {
     text-align : justify;
 }
 
+/* paragraph */
+article p {
+    text-indent : 7%;
+}
+
