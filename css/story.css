@@ -19,6 +19,7 @@ h1.title {
 article.body {
     font-family : Garamond, Palatino, serif;
     font-size : 1.2em;
+    font-weight : bold;
     text-align : justify;
     background-color : #f252af;
     padding : 5.5%;
