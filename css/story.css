@@ -1,0 +1,32 @@
+/* story.css
+ * This file contains style formatting for ../story.html
+ * Licensed under BSD 3-Clauses License, see LICENSE on the top of this repo.
+ */
+
+/* body */
+body {
+    width : 600px;
+}
+
+/* story title */
+h1.title {
+    font-family : "Comic Sans MS", cursive, sans-serif;
+    font-size: 1.25em;
+    text-align : center;
+}
+
+/* story body */
+article.body {
+    font-family : Garamond, Palatino, serif;
+    font-size : 1.2em;
+    font-weight : bold;
+    text-align : justify;
+    background-color : #f252af;
+    padding : 5.5%;
+}
+
+/* paragraph */
+article p {
+    text-indent : 7%;
+}
+
